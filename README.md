@@ -1,2 +1,3 @@
 # gari-world
 its Gari's world of ideas and resources
+So I am Garima. I am a software solution architect with State of Washington. A Software professional, mom of two girls, a tech enthusiast, I enjoy coding, and blah blah blah...
